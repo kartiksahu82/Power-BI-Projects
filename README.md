@@ -1,4 +1,4 @@
-Welcome to my GitHub repository, showcasing my skills in data extraction, transformation, loading, modeling, DAX writing, report building, and publishing using Power Query, Power View, and Power BI.
+Welcome to my GitHub repository, showcasing my skills in data extraction From Excel, transformation, loading, modeling, DAX writing, report building, and publishing using Power Query, Power View, and Power BI.
 
 🔍 Extract data: I received the data from the client in Excel format, which served as the initial source for analysis.
 
